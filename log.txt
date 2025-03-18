@@ -1,0 +1,4 @@
+Current time:2025-03-17 01:33:15.928335, lines read from DB:22, elapsed time:0.008992910385131836
+Current time:2025-03-17 01:37:27.884999, lines read from DB:75, elapsed time:0.007991790771484375
+Current time:2025-03-17 01:39:46.880431, lines read from DB:19529, elapsed time:0.20937371253967285
+Current time:2025-03-17 02:08:51.239587, lines read from DB:19529, elapsed time:0.12497425079345703
